@@ -6,11 +6,12 @@ Em alguns aplicativos mobile ou desktop é usualmente comum você encontrar a op
 
 ![Alterar o tema da aplicação do Discord.](assets/discord.png)
 
-Alterar o tema da aplicação do Discord
+<sub>Alterar o tema da aplicação do Discord</sub>
+
 
 ![Alterar o tema do Slack baseado na escolha do sistema operacional.](assets/slack.png)
 
-Alterar o tema do Slack baseado na escolha do sistema operacional.
+<sub>Alterar o tema do Slack baseado na escolha do sistema operacional.</sub>
 
 Nessa postagem, iremos alterar as cores de um aplicativo React Native, baseadas no tema escolhido pelas preferências do usuário.
 
@@ -70,7 +71,7 @@ A estrutura padrão do React Native foi mantida conforme a criação do projeto.
 
 ![Exemplo da estrutura do tema.](assets/definicao-tema.png)
 
-Estrutura do tema apresentada no projeto.
+<sub>Estrutura do tema apresentada no projeto.</sub>
 
 ### Estrutura dos componentes
 
@@ -127,7 +128,7 @@ No meu simulador (iOS), a configuração inicial se mantém como light. Na prime
 
 ![iOS Light.](assets/light.png)
 
-Apresentação do aplicativo com tema light.
+<sub>Apresentação do aplicativo com tema light.</sub>
 
 Para realizar a alteração da configuração do simulador iOS, você encontrará a configuração e poderá realizar a alteração em:
 
@@ -137,17 +138,17 @@ Settings > Developer > Appearance > Dark Appearance
 
 ![iOS Preferences.](assets/ios-preferences.png)
 
-Ajustes do simulador iOS.
+<sub>Ajustes do simulador iOS.</sub>
 
 ![Change iOS Preferences.](assets/ios-preferences-onchange.png)
 
-Alterando as preferências do usuário.
+<sub>Alterando as preferências do usuário.</sub>
 
 Reabra o aplicativo para visualizar as modificações feitas.
 
 ![iOS Dark.](assets/ios-preferences-onchange.png)
 
-Apresentação do aplicativo com tema dark.
+<sub>Apresentação do aplicativo com tema dark.</sub>
 
 ## Código da aplicação
 
