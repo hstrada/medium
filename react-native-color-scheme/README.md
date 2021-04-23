@@ -5,9 +5,11 @@ https://hstrada.medium.com/alterando-a-cor-do-tema-de-seu-aplicativo-em-react-na
 Em alguns aplicativos mobile ou desktop é usualmente comum você encontrar a opção para alterar o tema da sua aplicação (light e dark) ou sincronizá-lo com o tema escolhido no seu dispositivo.
 
 ![Alterar o tema da aplicação do Discord.](assets/discord.png)
+
 Alterar o tema da aplicação do Discord
 
 ![Alterar o tema do Slack baseado na escolha do sistema operacional.](assets/slack.png)
+
 Alterar o tema do Slack baseado na escolha do sistema operacional.
 
 Nessa postagem, iremos alterar as cores de um aplicativo React Native, baseadas no tema escolhido pelas preferências do usuário.
@@ -67,6 +69,7 @@ App.tsx
 A estrutura padrão do React Native foi mantida conforme a criação do projeto. Fora adicionado uma pasta src com as referências dos [temas](https://github.com/hstrada/react-native-color-scheme/tree/master/Colourse/src).
 
 ![Exemplo da estrutura do tema.](assets/definicao-tema.png)
+
 Estrutura do tema apresentada no projeto.
 
 ### Estrutura dos componentes
@@ -123,6 +126,7 @@ const App = () => {
 No meu simulador (iOS), a configuração inicial se mantém como light. Na primeira inicialização do projeto, você encontrará o tema light configurado conforme fizemos.
 
 ![iOS Light.](assets/light.png)
+
 Apresentação do aplicativo com tema light.
 
 Para realizar a alteração da configuração do simulador iOS, você encontrará a configuração e poderá realizar a alteração em:
@@ -132,14 +136,17 @@ Settings > Developer > Appearance > Dark Appearance
 ```
 
 ![iOS Preferences.](assets/ios-preferences.png)
+
 Ajustes do simulador iOS.
 
 ![Change iOS Preferences.](assets/ios-preferences-onchange.png)
+
 Alterando as preferências do usuário.
 
 Reabra o aplicativo para visualizar as modificações feitas.
 
 ![iOS Dark.](assets/ios-preferences-onchange.png)
+
 Apresentação do aplicativo com tema dark.
 
 ## Código da aplicação
