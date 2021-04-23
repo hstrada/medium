@@ -1,3 +1,5 @@
+https://hstrada.medium.com/alterando-a-cor-do-tema-de-seu-aplicativo-em-react-native-conforme-a-configura%C3%A7%C3%A3o-padr%C3%A3o-do-celular-5faa6e647b37
+
 # Alterando a cor do tema de seu aplicativo em React Native conforme a configuração padrão do celular
 
 Em alguns aplicativos mobile ou desktop é usualmente comum você encontrar a opção para alterar o tema da sua aplicação (light e dark) ou sincronizá-lo com o tema escolhido no seu dispositivo.
