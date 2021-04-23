@@ -1,8 +1,9 @@
 # medium
-Repositório dedicado aos posts realizados no medium.
+
+https://hstrada.medium.com/
 
 # POSTS
 
-## Desmitificando o JOIN
+## Desmistificando o JOIN.
 
-https://medium.com/@h.strada/desmitificando-o-join-e7e64af4257
+https://hstrada.medium.com/desmistificando-o-join-becaba5ad0a6
