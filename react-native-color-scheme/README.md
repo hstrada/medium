@@ -146,7 +146,7 @@ Settings > Developer > Appearance > Dark Appearance
 
 Reabra o aplicativo para visualizar as modificações feitas.
 
-![iOS Dark.](assets/ios-preferences-onchange.png)
+![iOS Dark.](assets/dark.png)
 
 <sub>Apresentação do aplicativo com tema dark.</sub>
 
