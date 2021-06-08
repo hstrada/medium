@@ -49,7 +49,7 @@ const light: DefaultTheme = {
 
 [Dark Theme](https://github.com/hstrada/react-native-color-scheme/blob/master/Colourse/src/theme/dark/index.ts)
 ```ts
-const light: DefaultTheme = {
+const dark: DefaultTheme = {
     colors: {
         background: '#121212',
         text: '#F6F6F6',
